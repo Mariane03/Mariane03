@@ -1,34 +1,33 @@
-## Olá, mundo! Eu sou a Mariane03
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-- 🔭 Atualmente trabalho com atendimento e suporte
-- 🌱 Graduanda em Análise e desenvolvimento de sistemas, PUC - MG
-- 😄 Pronomes ela/dela
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Eu+sou+a+Mari;Bem+vind@!+:%29)](https://git.io/typing-svg)
 
+ <p align="center">
+    Graduanda em Análise e desenvolvimento de sistemas pela PUC-MG. Atualmente trabalho como Analista de sistemas bilíngue (PT-ES)
+  </p>
 
-<div align="left">
-    <div style="text-align: right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariane03&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mariane03&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mari Serapião github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariane03&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="left" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
-</div>
-  
-  
-  <!DOCTYPE html>
-<html>
-<body>
-<img src="https://raw.githubusercontent.com/Mariane03/Mariane03/src/338224_4QIqMYVL.png" alt="pic me 2" width="200" height="200" align="right">
-</body>
-</html>
 
-  
-  ##
-  <div> 
-  <a href = "mailto:marianeserapiaoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/marianeserapiao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+<a href = "mailto:marianeserapiaoa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marianeserapiao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+  ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.native](https://img.shields.io/badge/-React.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-0D1117?style=for-the-badge&logo=storybook&labelColor=0D1117)&nbsp; 
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
