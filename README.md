@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Eu+sou+a+Mari;Bem+vind@!+:%29)](https://git.io/typing-svg)
 
  <p align="center">
-    Graduanda em Análise e desenvolvimento de sistemas pela PUC-MG. Atualmente trabalho como Analista de sistemas bilíngue (PT-ES)
+    Graduada em Análise e desenvolvimento de sistemas pela PUC-MG. Atualmente trabalho como Analista de sistemas bilíngue (PT-ES)
   </p>
 
 <div align="center">  
